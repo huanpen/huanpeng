@@ -23,13 +23,13 @@ repository               : "https://huanpen.github.io/huanpeng/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Huan Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Currently MSc SCR student at KTH"
+  location         : "Stockholm, Sweden"
+  employer         : "KTH Royal Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "huanp@kth.se" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
