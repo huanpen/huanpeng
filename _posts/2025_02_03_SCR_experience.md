@@ -1,7 +1,7 @@
 ---
 title: 'SCR的一点感想'
 date: 2025-02-03
-permalink: /posts/2025/02/03/SCR_experience/
+permalink: /posts/2025_02_03_SCR_experience/
 tags:
   - SCR
   - 一点感想
