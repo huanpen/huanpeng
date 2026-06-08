@@ -22,7 +22,7 @@ repository               : "https://huanpen.github.io/huanpeng/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/huanp.jpg"
+  avatar           : "huanp.jpg"
   name             : "Huan Peng"
   pronouns         : # example: "she/her"  
   bio              : "Currently MSc SCR student at KTH"
