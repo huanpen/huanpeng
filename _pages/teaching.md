@@ -7,17 +7,12 @@ author_profile: true
 
 ## KTH Royal Institute of Technology
 
-### **Teaching Assistant (助教)**
+### **Laboratory Teaching Assistant**
 
-* **Course Code & Name 1** — *Master's Level* <br>
-  *Spring 2026 | School of Electrical Engineering and Computer Science*
-  * **Responsibilities**: Led weekly recitation sections for 30+ students, designed lab assignments, and graded final projects.
-  * **Key Topic**: Robotics, Control Systems, or Machine Learning (写你教的核心技术).
-
-* **Course Code & Name 2** — *Bachelor's Level* <br>
-  *Autumn 2025 | School of EECS*
-  * **Responsibilities**: Conducted weekly laboratory sessions, held office hours to support students with Python programming, and cross-graded midterms.
-
+* **EL1000, EL1010 & EL1020, Automatic Control, Basic Course ** — *Bachelor's Level* <br>
+  *Autumn 2025 | School of Electrical Engineering and Computer Science*
+  * **Responsibilities**: Supervised bachelor students in laboratory sessions on classical control topics, including PID control, pole placement, and lead--lag compensation. Guided students through system modeling, controller design, and real-time implementation. Evaluated student performance and determined lab pass/fail results based on technical understanding and execution.
+  * **Key Topic**: Control Systems, Process Control
 ---
 
 ## Other Teaching & Mentorship
