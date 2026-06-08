@@ -28,8 +28,8 @@ author_profile: true
 ## Thesis
 
 1. Huan Peng, ''Equilibrium Robustness for Non-Convex Minimax Problems with Uncertain Constraints''.<br>
-   Master's Thesis, KTH Royal Institute of Technology*, 2026.<br>
-   [[PDF]](/files/thesis.pdf)
+   Master's Thesis, KTH Royal Institute of Technology*, 2026. Examiner: Prof. Karl Henrik Johansson; Supervisor: Prof. Guanpu Chen.<br>
+   [[PDF]](/files/msc_thesis.pdf)
 
 
 
