@@ -6,6 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+
+My detailed CV could be found here.
+
 {% comment %}
 {% include base_path %}
 
