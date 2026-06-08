@@ -21,7 +21,7 @@ author_profile: true
 ## Conference Papers
 
 1. H. Peng, G. Chen, and K. H. Johansson, ``A Scenario Approach to the Robustness of Nonconvex--Nonconcave Minimax Problems,'' accepted by *IFAC World Congress 2026*.<br>
-   [[arXiv](https://arxiv.org/abs/2511.15606)
+   [[arXiv]](https://arxiv.org/abs/2511.15606)
 
 
 
