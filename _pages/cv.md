@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My detailed CV could be found here.
+My detailed CV could be found [here](https://huanpen.github.io/huanpeng/files/cv_2026_06_08.pdf).
 
 {% comment %}
 {% include base_path %}
