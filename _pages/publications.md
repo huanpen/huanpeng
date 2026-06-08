@@ -28,12 +28,12 @@ author_profile: true
 ## Thesis
 
 1. Huan Peng, ''Equilibrium Robustness for Non-Convex Minimax Problems with Uncertain Constraints''.<br>
-   Master's Thesis, *KTH Royal Institute of Technology*, 2026. <br>
+   Master's Thesis, KTH Royal Institute of Technology, Stockholm, Sweden, 2026. <br>
    Examiner: Prof. Karl Henrik Johansson; Supervisor: Prof. Guanpu Chen.<br>
    [[PDF]](/huanpeng/files/msc_thesis.pdf) | [[slides]](/huanpeng/files/msc_thesis_slides.pdf)
 
 2. Huan Peng, ''On the Vulnerability of Cyber-Physical Systems Under Hybrid Attacks''.<br>
-   Bachelor's Thesis, *Tianjin University*, 2024. <br>
+   Bachelor's Thesis, Tianjin University, Tianjin, China, 2024. <br>
    Examiner: Prof. Zhiqiang Zuo.<br>
    [[PDF]](/huanpeng/files/be_thesis.pdf) | [[slides]](/huanpeng/files/be_thesis_slides.pdf)
 
