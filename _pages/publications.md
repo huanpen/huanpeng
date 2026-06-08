@@ -20,10 +20,8 @@ author_profile: true
 
 ## Conference Papers
 
-1. **Your First Conference Paper Title** Huan Peng, Co-author 1, Co-author 2.<br>
-   *Proceedings of Conference Name (CVPR/ICRA/etc.)*, 2025.<br>
-   [[PDF]](/files/conf1.pdf) | [[Project Page]](https://...) | [[Video]](https://...)
-
+1. H. Peng, G. Chen, and K. H. Johansson, ``A Scenario Approach to the Robustness of Nonconvex--Nonconcave Minimax Problems,'' accepted by *IFAC World Congress 2026*.<br>
+   [[arXiv]]([/files/conf1.pdf](https://arxiv.org/abs/2511.15606))
 ---
 
 ## Thesis
