@@ -8,7 +8,7 @@ author_profile: true
 ## Journal Papers
 
 1. H. Peng, G. Chen, G. Belgioioso, and K. H. Johansson, ''Distributed Algorithm for Robust Wardrop Equilibrium in Uncertain Aggregative Congestion Games,'' submitted to *IEEE Transactions on Control of Network Systems*.<br>
-   [[arXiv]]([/files/journal1.pdf](https://arxiv.org/abs/2606.01594)) 
+   [[arXiv]](https://arxiv.org/abs/2606.01594)
 
 {% comment %}
 2. **Your Second Journal Paper Title** Huan Peng, Co-author 1.<br>
