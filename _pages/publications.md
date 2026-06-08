@@ -22,12 +22,13 @@ author_profile: true
 
 1. H. Peng, G. Chen, and K. H. Johansson, ``A Scenario Approach to the Robustness of Nonconvex--Nonconcave Minimax Problems,'' accepted by *IFAC World Congress 2026*.<br>
    [[arXiv]]([/files/conf1.pdf](https://arxiv.org/abs/2511.15606))
----
+
+
 
 ## Thesis
 
-1. **Your Master's or Bachelor's Thesis Title** Huan Peng.<br>
-   *KTH Royal Institute of Technology*, 2026.<br>
+1. Huan Peng, ''Equilibrium Robustness for Non-Convex Minimax Problems with Uncertain Constraints''.<br>
+   Master's Thesis, KTH Royal Institute of Technology*, 2026.<br>
    [[PDF]](/files/thesis.pdf)
 
 
