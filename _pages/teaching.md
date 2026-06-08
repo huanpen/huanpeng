@@ -8,8 +8,7 @@ author_profile: true
 ## KTH Royal Institute of Technology
 
 ### **Laboratory Teaching Assistant**
-
-* **EL1000, EL1010 & EL1020, Automatic Control, Basic Course ** — *Bachelor's Level* <br>
+**EL1000, EL1010 & EL1020, Automatic Control, Basic Course ** <br>— *Bachelor's Level* 
   *Autumn 2025 | School of Electrical Engineering and Computer Science*
   * **Responsibilities**: Supervised bachelor students in laboratory sessions on classical control topics, including PID control, pole placement, and lead--lag compensation. Guided students through system modeling, controller design, and real-time implementation. Evaluated student performance and determined lab pass/fail results based on technical understanding and execution.
   * **Key Topic**: Control Systems, Process Control
