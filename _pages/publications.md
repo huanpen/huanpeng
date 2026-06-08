@@ -33,7 +33,7 @@ author_profile: true
    [[PDF]](/huanpeng/files/msc_thesis.pdf) | [[slides]](/huanpeng/files/msc_thesis_slides.pdf)
 
 2. Huan Peng, ''On the Vulnerability of Cyber-Physical Systems Under Hybrid Attacks''.<br>
-   Bachelor's Thesis, Tianjin University, Tianjin, China, 2024. <br>
+   Bachelor's Thesis (in Chinese), Tianjin University, Tianjin, China, 2024. <br>
    Examiner: Prof. Zhiqiang Zuo.<br>
    [[PDF]](/huanpeng/files/be_thesis.pdf) | [[slides]](/huanpeng/files/be_thesis_slides.pdf)
 
